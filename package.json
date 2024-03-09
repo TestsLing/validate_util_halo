@@ -15,6 +15,7 @@
   "author": "TestsLing",
   "license": "ISC",
   "dependencies": {
-    "noone-user-agent": "^1.0.1"
+    "noone-user-agent": "^1.0.1",
+    "webpack_deskit": "^1.0.0"
   }
 }
