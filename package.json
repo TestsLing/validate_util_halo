@@ -4,7 +4,7 @@
   "description": "common util",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TestsLing/validate_util"
+    "url": "https://github.com/TestsLing/validate_util_halo"
   },
   "keywords": [
     "utils",
